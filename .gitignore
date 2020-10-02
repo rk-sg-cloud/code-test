@@ -1,0 +1,14 @@
+# IDE related
+*/.externalToolBuilders
+*/.settings
+*/.gradle
+.gradletasknamecache
+.classpath
+.project
+.externalToolBuilders
+.settings
+build
+.idea
+.gradle
+
+
